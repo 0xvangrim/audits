@@ -11,7 +11,7 @@ Vangrim is an independent blockchain security researcher. He is currently active
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
-| Contest | Link | High risk | Medium risk | Leaderboard | Participation |
+| Date | Contest | High risk | Medium risk | Leaderboard | Participation |
 |:-------:|:----:|:---------:|:-----------:|:-----------:|:-------------:|
 | July, 2023 | [Arcade](https://code4rena.com/contests/2023-07-arcadexyz#top) | 0 highs | 1 medium | 29th out of 60 | Solo |
 | July, 2023 | [Basin](https://code4rena.com/contests/2023-07-basin#top) | 0 highs | 1 medium | 9th out of 74 | Team |
